@@ -336,6 +336,7 @@ export default function ContactPage() {
                   <div className="flex items-start space-x-3">
                     <Send className="w-5 h-5 text-[#4aeadc] mt-1" />
                     <div>
+                      
                       <p className="font-medium text-gray-800">Persoonlijke aanpak</p>
                       <p className="text-sm text-gray-600">Maatwerk advies voor jouw specifieke situatie</p>
                     </div>
